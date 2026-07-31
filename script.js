@@ -176,7 +176,7 @@ const area=document.getElementById("starArea");
 
 const messages=[
 
-"You're one of my favorite people 💜",
+"You're one of my favorite people ❤️",
 
 "I hope this makes you smile 🥰",
 
@@ -234,7 +234,7 @@ const e=document.createElement("div");
 
 e.className="particle";
 
-e.innerHTML=["✨","💜","🌸"][Math.floor(Math.random()*3)];
+e.innerHTML=["✨","❤️","🌸"][Math.floor(Math.random()*3)];
 
 e.style.left=Math.random()*100+"vw";
 
@@ -293,7 +293,7 @@ chapter.innerHTML=`
 <div class="chapter">
 
 
-<h1>💜 Heart Garden 💜</h1>
+<h1>❤️ Heart Garden ❤️</h1>
 
 
 <p>Catch every heart!</p>
@@ -304,7 +304,7 @@ chapter.innerHTML=`
 
 <div id="speech">
 
-Catch them all 💜
+Catch them all ❤️
 
 </div>
 
@@ -323,7 +323,7 @@ const messages=[
 
 "I really am sorry ❤️",
 
-"I hope this makes you happy 💜",
+"I hope this makes you happy ❤️",
 
 "You're amazing 🌸",
 
@@ -348,7 +348,7 @@ const heart=document.createElement("div");
 heart.className="heartFloat";
 
 
-heart.innerHTML="💜";
+heart.innerHTML="❤️";
 
 
 
@@ -414,7 +414,7 @@ chapter.innerHTML=`
 <h1>💌</h1>
 
 
-<h2>Nesrouneee 💜</h2>
+<h2>Nesrouneee ❤️</h2>
 
 
 <p>
@@ -464,7 +464,7 @@ chapter.innerHTML=`
 
 <p>
 
-Nesrouneee 💜<br><br>
+Nesrouneee ❤️<br><br>
 
 Pardon pardon for making u mad 😔<br><br>
 
@@ -513,7 +513,7 @@ chapter.innerHTML=`
 
 <h1 style="font-size:70px">
 
-💜
+❤️
 
 </h1>
 
